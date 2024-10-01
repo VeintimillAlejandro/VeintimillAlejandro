@@ -11,7 +11,7 @@
 </div>
 
 <br />
-<img align="right" height="200px" width="250px" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdqMjV1Ymd0MnF2NmRjaHRpYjhucW96dDd1emVmaTY5ZzNteXVociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Zesu5VPNGJlm/200.webp" />
+<img align="right" height="200px" width="300px" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdqMjV1Ymd0MnF2NmRjaHRpYjhucW96dDd1emVmaTY5ZzNteXVociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Zesu5VPNGJlm/200.webp" />
 
 <p align="center">
   <h3> I'm 23 years old Data Scientist.</h3>
