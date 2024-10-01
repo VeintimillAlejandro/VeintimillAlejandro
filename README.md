@@ -11,24 +11,16 @@
 </div>
 
 <br />
-<img align="right" height="270px" width="200px" alt="GIF" src="https://i.giphy.com/3ohhwfAa9rbXaZe86c.webp" />
+<img align="right" height="200px" width="250px" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdqMjV1Ymd0MnF2NmRjaHRpYjhucW96dDd1emVmaTY5ZzNteXVociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Zesu5VPNGJlm/200.webp" />
 
 <p align="center">
   <h3> I'm 23 years old Data Scientist.</h3>
 </p>
 
- - 
+- 3D priting lover (specialy resin printing)
    
- - 
-
- - 
- 
- - 
- 
- - 
- 
- - 
- 
+- Capable of speaking English and Spanish fluently
+  
 
 <!--  -->
 
